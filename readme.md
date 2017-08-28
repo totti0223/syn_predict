@@ -1,6 +1,6 @@
 Simple Deep Neural Network for predicting the difficulty of protein synthesis
 ====
-
+:)
 Overview
 ![image](slide.png)
 ## Description
